@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **mawwabkhank2006@gmail.com**
 
-- 📄 Know about my experiences [m-awwab-khan.github.io](m-awwab-khan.github.io)
+- 📄 Know about my experiences [m-awwab-khan.github.io](https://m-awwab-khan.github.io/)
 
 - ⚡ Fun fact **I think I am funny**
 
