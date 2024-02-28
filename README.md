@@ -4,6 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-awwab-khan" alt="m-awwab-khan" /></a> </p>
 <img align="right" alt="coding gif" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+
 - 🌱 I’m currently learning **Deep Learning using TensorFlow and Keras**
 
 - 👨‍💻 All of my projects are available at [github.com/M-Awwab-Khan](github.com/M-Awwab-Khan)
