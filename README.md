@@ -1,6 +1,4 @@
-<h1 align="left">Muhammad Awwab</h1>
 <h5 align="left">Teaching Computers to Learn and Understand</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-awwab-khan&label=Profile%20views&color=0e75b6&style=flat" alt="m-awwab-khan" /> </p>
 
 ```python
 #!/usr/bin/python
@@ -31,13 +29,9 @@ me = SoftwareEngineer()
 me.say_hi()
 
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-awwab-khan&label=Profile%20views&color=0e75b6&style=flat" alt="m-awwab-khan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-awwab-khan" alt="m-awwab-khan" /></a> </p>
-
-### 📝 Blog Posts
-
-- [Transformers, A Secret Code AI Uses to Understand Us All](https://aiclubofficial.medium.com/the-transformers-a-secret-code-ai-uses-to-understand-us-all-926bcffb2c93)
-- [Introduction to Vector Databases, A Way of Storing High Dimensional Data](https://aiclubofficial.medium.com/introduction-to-vector-databases-a-way-of-storing-high-dimensional-data-d0029751c1e7)
 
 <div align="center">
 
@@ -88,6 +82,11 @@ me.say_hi()
 ![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 </div>
+
+### 📝 Blog Posts
+
+- [Transformers, A Secret Code AI Uses to Understand Us All](https://aiclubofficial.medium.com/the-transformers-a-secret-code-ai-uses-to-understand-us-all-926bcffb2c93)
+- [Introduction to Vector Databases, A Way of Storing High Dimensional Data](https://aiclubofficial.medium.com/introduction-to-vector-databases-a-way-of-storing-high-dimensional-data-d0029751c1e7)
 
 ### ✨&nbsp; About Me
 Muhammad Awwab Khan, a 18-year-old software engineering student at NED University, is a passionate data science enthusiast, skilled in Python and Web Technologies, with a love for problem-solving, football, and a knack for mathematics.
